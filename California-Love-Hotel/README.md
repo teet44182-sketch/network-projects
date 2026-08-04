@@ -12,6 +12,12 @@ Designed and simulated a multi-building hotel network with 60+ devices, 5 VLANs,
 
 ---
 
+## Network Topology
+
+![Topology](Topology.png)
+
+---
+
 ## Network Design
 
 | VLAN | Name     | Purpose |
